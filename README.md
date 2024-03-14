@@ -3,6 +3,9 @@
 This simple example that allows for code input with syntax highlighting and error checking.
 > To try out the example, run `>Live Preview: Start Server` in the VSCode command pallet.
 
+Notice how user's can't edit the boiler plate for the canvas, just the implementation of the draw() function.
+The draw function also contains intellisense for all the HTML Canvas types 
+
 ## Dependencies
 
 Here are the main dependencies used in this project:
