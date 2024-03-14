@@ -4,7 +4,7 @@ This simple example that allows for code input with syntax highlighting and erro
 > To try out the example, run `>Live Preview: Start Server` in the VSCode command pallet.
 
 Notice how user's can't edit the boiler plate for the canvas, just the implementation of the draw() function.
-The draw function also contains intellisense for all the HTML Canvas types 
+The draw function also contains intellisense for all the HTML Canvas types and supports JSDOC typings.
 
 ## Dependencies
 
